@@ -1,0 +1,22 @@
+---
+layout: default
+title: 2017 Gates Foundation Education Grants
+---
+
+<!-- Acquisitions -->
+{% assign grants = site.data.2017 %}
+{% assign grants = grants | sort:"Name" %}
+
+<!-- Document -->
+
+{% for grant in grants %}
+
+<p><strong>{{ grant.Name }}</strong> (Amount: {{ grant.Amount }})</p>
+
+<p>Description: {{ grant. Description }}</p>
+
+<hr>
+
+
+{% endfor %}
+
