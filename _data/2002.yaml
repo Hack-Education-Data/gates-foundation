@@ -1,4 +1,260 @@
-- Name: Bill Gates
-  Amount: One Billion Dollars
-  Description: Money to buy off politicians
-  Notes: Democracy
+- Name: KnowledgeWorks Foundation
+  Amount: '$20,000,000'
+  Description: ''
+  Notes: ''
+- Name: Fund for Educational Excellence
+  Amount: '$12,000,000'
+  Description: ''
+  Notes: ''
+- Name: Senator George J. Mitchell Scholarship Research Institute
+  Amount: '$9,984,927'
+  Description: ''
+  Notes: ''
+- Name: Middle College High School Consortium
+  Amount: '$7,149,854'
+  Description: ''
+  Notes: ''
+- Name: National Council of La Raza
+  Amount: '$6,661,364'
+  Description: ''
+  Notes: ''
+- Name: Woodrow Wilson National Fellowship Foundation
+  Amount: '$5,363,293'
+  Description: ''
+  Notes: ''
+- Name: Jobs for the Future Inc
+  Amount: '$5,189,705'
+  Description: ''
+  Notes: ''
+- Name: Thurgood Marshall Scholarship Fund
+  Amount: '$4,992,043'
+  Description: ''
+  Notes: ''
+- Name: SECME Inc
+  Amount: '$4,800,000'
+  Description: ''
+  Notes: ''
+- Name: EdVisions
+  Amount: '$4,500,000'
+  Description: ''
+  Notes: ''
+- Name: Chicago Charter School Foundation
+  Amount: '$4,012,000'
+  Description: ''
+  Notes: ''
+- Name: Lancaster Foundation for Educational Enrichment
+  Amount: '$4,000,000'
+  Description: ''
+  Notes: ''
+- Name: Linking Education and Economic Development in Sacramento
+  Amount: '$4,000,000'
+  Description: ''
+  Notes: ''
+- Name: Institute of Computer Technology
+  Amount: '$3,640,000'
+  Description: ''
+  Notes: ''
+- Name: Utah Partnership Foundation
+  Amount: '$3,520,000'
+  Description: ''
+  Notes: ''
+- Name: Antioch University
+  Amount: '$3,325,000'
+  Description: ''
+  Notes: ''
+- Name: High Tech High Foundation
+  Amount: '$3,200,000'
+  Description: ''
+  Notes: ''
+- Name: KnowledgeWorks Foundation
+  Amount: '$2,699,363'
+  Description: ''
+  Notes: ''
+- Name: Seattle Pacific University
+  Amount: '$1,892,093'
+  Description: ''
+  Notes: ''
+- Name: KnowledgeWorks Foundation
+  Amount: '$1,590,031'
+  Description: ''
+  Notes: ''
+- Name: New Visions for Public Schools
+  Amount: '$1,439,000'
+  Description: ''
+  Notes: ''
+- Name: University of Washington Foundation
+  Amount: '$1,175,000'
+  Description: ''
+  Notes: ''
+- Name: University of Mississippi Foundation
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Washington Technology in Education Trust
+  Amount: '$967,000'
+  Description: ''
+  Notes: ''
+- Name: Center for Collaborative Education
+  Amount: '$945,261'
+  Description: ''
+  Notes: ''
+- Name: Education Commission of the States
+  Amount: '$818,980'
+  Description: ''
+  Notes: ''
+- Name: Center for Collaborative Education
+  Amount: '$800,000'
+  Description: ''
+  Notes: ''
+- Name: Stanford University
+  Amount: '$698,981'
+  Description: ''
+  Notes: ''
+- Name: National Commission on Teaching & America's Future
+  Amount: '$616,298'
+  Description: ''
+  Notes: ''
+- Name: 'Ferndale School District #502'
+  Amount: '$600,000'
+  Description: ''
+  Notes: ''
+- Name: 'Quincy School District #144-101'
+  Amount: '$600,000'
+  Description: ''
+  Notes: ''
+- Name: St. HOPE Corporation
+  Amount: '$597,228'
+  Description: ''
+  Notes: ''
+- Name: New England Foundation for the Arts
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: New York Charter School Resource Center Inc
+  Amount: '$436,800'
+  Description: ''
+  Notes: ''
+- Name: University of Washington Foundation
+  Amount: '$350,000'
+  Description: ''
+  Notes: ''
+- Name: Institute for Educational Leadership
+  Amount: '$315,332'
+  Description: ''
+  Notes: ''
+- Name: 'Quillayute Valley School District #402'
+  Amount: '$310,500'
+  Description: ''
+  Notes: ''
+- Name: College Board
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: 'San Juan Island School District #149'
+  Amount: '$248,250'
+  Description: ''
+  Notes: ''
+- Name: Local Initiatives Support Corporation
+  Amount: '$246,056'
+  Description: ''
+  Notes: ''
+- Name: University of Washington Foundation
+  Amount: '$227,854'
+  Description: ''
+  Notes: ''
+- Name: Institute for Educational Leadership
+  Amount: '$225,800'
+  Description: ''
+  Notes: ''
+- Name: Alliance for Education
+  Amount: '$199,984'
+  Description: ''
+  Notes: ''
+- Name: Aspen Institute
+  Amount: '$161,607'
+  Description: ''
+  Notes: ''
+- Name: Boston College
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: Western Interstate Commission for Higher Ed
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: National Staff Development COuncil
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: Partnership for Learning
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: 'Dayton School District #2'
+  Amount: '$149,950'
+  Description: ''
+  Notes: ''
+- Name: Aspen Institute
+  Amount: '$127,465'
+  Description: ''
+  Notes: ''
+- Name: Education Trust Inc
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: Education Development Center Inc
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: League of Education Voters Foundation
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: Education Resources Institute
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: International Society for Technology in Education
+  Amount: '$87,000'
+  Description: ''
+  Notes: ''
+- Name: 'Quilcene School District #48'
+  Amount: '$75,000'
+  Description: ''
+  Notes: ''
+- Name: 'Yakima School District #7'
+  Amount: '$66,400'
+  Description: ''
+  Notes: ''
+- Name: Center on Education Policy
+  Amount: '$55,000'
+  Description: ''
+  Notes: ''
+- Name: Mission Hill School
+  Amount: '$53,500'
+  Description: ''
+  Notes: ''
+- Name: Washington Technology in Education Trust
+  Amount: '$50,000'
+  Description: ''
+  Notes: ''
+- Name: Western Governors University
+  Amount: '$50,000'
+  Description: ''
+  Notes: ''
+- Name: National Governors Association
+  Amount: '$30,000'
+  Description: ''
+  Notes: ''
+- Name: Manhattan Institute for Policy Research
+  Amount: '$25,000'
+  Description: ''
+  Notes: ''
+- Name: CCSSO
+  Amount: '$25,000'
+  Description: ''
+  Notes: ''
+- Name: Grantmakers for Education
+  Amount: '$20,000'
+  Description: ''
+  Notes: ''
