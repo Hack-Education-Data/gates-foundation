@@ -1,4 +1,786 @@
-- Name: Bill Gates
-  Amount: One Billion Dollars
-  Description: Money to buy off politicians
-  Notes: Democracy
+- Name: 'Achieving the Dream, Inc.'
+  Amount: '$999,550'
+  Description: ''
+  Notes: ''
+- Name: Advancement Through Opportunity and Knowledge Incorporated
+  Amount: '$729,916'
+  Description: ''
+  Notes: ''
+- Name: Albuquerque Public Schools
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Alliance for Education
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: Alliance for Education
+  Amount: '$30,000'
+  Description: ''
+  Notes: ''
+- Name: Alliance for Education
+  Amount: '$6,000'
+  Description: ''
+  Notes: ''
+- Name: Alliance for Education
+  Amount: '$110,610'
+  Description: ''
+  Notes: ''
+- Name: 'Alliance For Education, Inc.'
+  Amount: '$300,013'
+  Description: ''
+  Notes: ''
+- Name: Alliance for Excellent Education Inc.
+  Amount: '$3,200,004'
+  Description: ''
+  Notes: ''
+- Name: Amarillo Area Foundation Inc.
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: American Federation Of Teachers Educational Foundation
+  Amount: '$3,867,298'
+  Description: ''
+  Notes: ''
+- Name: American Federation Of Teachers Educational Foundation
+  Amount: '$217,200'
+  Description: ''
+  Notes: ''
+- Name: American Institutes for Research in the Behavioral Sciences
+  Amount: '$168,755'
+  Description: ''
+  Notes: ''
+- Name: American Institutes for Research in the Behavioral Sciences
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Americas Promise-The Alliance For Youth
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Arkansas Department of Higher Education
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Association of Community College Trustees
+  Amount: '$51,535'
+  Description: ''
+  Notes: ''
+- Name: Athabasca University
+  Amount: '$10,000'
+  Description: ''
+  Notes: ''
+- Name: Atlanta Public Schools
+  Amount: '$9,642,436'
+  Description: ''
+  Notes: ''
+- Name: Battelle For Kids
+  Amount: '$124,757'
+  Description: ''
+  Notes: ''
+- Name: Battelle Memorial Institute
+  Amount: '$5,226,127'
+  Description: ''
+  Notes: ''
+- Name: 'Bellwether Education Partners, Inc.'
+  Amount: '$809,467'
+  Description: ''
+  Notes: ''
+- Name: Boston Public Schools
+  Amount: '$497,684'
+  Description: ''
+  Notes: ''
+- Name: Brown University
+  Amount: '$3,243,431'
+  Description: ''
+  Notes: ''
+- Name: California Charter Schools Association
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Carnegie Foundation for the Advancement of Teaching
+  Amount: '$4,409,433'
+  Description: ''
+  Notes: ''
+- Name: 'CAST, Inc.'
+  Amount: '$499,783'
+  Description: ''
+  Notes: ''
+- Name: CELT Corporation
+  Amount: '$350,000'
+  Description: ''
+  Notes: ''
+- Name: Center for Education Reform
+  Amount: '$275,000'
+  Description: ''
+  Notes: ''
+- Name: Center for Energy Workforce Development
+  Amount: '$1,370,000'
+  Description: ''
+  Notes: ''
+- Name: Center for Inspired Teaching
+  Amount: '$1,293,000'
+  Description: ''
+  Notes: ''
+- Name: 'Center for Teaching Quality, Inc.'
+  Amount: '$395,836'
+  Description: ''
+  Notes: ''
+- Name: 'Center for Teaching Quality, Inc.'
+  Amount: '$2,577,857'
+  Description: ''
+  Notes: ''
+- Name: Center for the Study of Community Colleges
+  Amount: '$50,000'
+  Description: ''
+  Notes: ''
+- Name: Change the Equation Inc
+  Amount: '$900,000'
+  Description: ''
+  Notes: ''
+- Name: Charlotte Chamber of Commerce
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: Charlotte-Mecklenburg Schools
+  Amount: '$214,808'
+  Description: ''
+  Notes: ''
+- Name: Charlotte-Mecklenburg Schools
+  Amount: '$150,834'
+  Description: ''
+  Notes: ''
+- Name: Charter Fund Inc dba Charter School Growth Fund
+  Amount: '$12,500,000'
+  Description: ''
+  Notes: ''
+- Name: City and County of San Francisco
+  Amount: '$3,022,965'
+  Description: ''
+  Notes: ''
+- Name: City of Mesa
+  Amount: '$2,415,053'
+  Description: ''
+  Notes: ''
+- Name: Cleveland Metropolitan School District
+  Amount: '$497,752'
+  Description: ''
+  Notes: ''
+- Name: College Entrance Examination Board
+  Amount: '$10,000'
+  Description: ''
+  Notes: ''
+- Name: Colorado Education Initiative
+  Amount: '$1,747,441'
+  Description: ''
+  Notes: ''
+- Name: Commission on Hispanic Affairs
+  Amount: '$213,000'
+  Description: ''
+  Notes: ''
+- Name: Committee for Economic Development
+  Amount: '$1,532,181'
+  Description: ''
+  Notes: ''
+- Name: Communities Foundation of Texas
+  Amount: '$1,579,999'
+  Description: ''
+  Notes: ''
+- Name: Communities Foundation of Texas
+  Amount: '$1,997,426'
+  Description: ''
+  Notes: ''
+- Name: Corporate Voices for Working Families Inc
+  Amount: '$1,586,744'
+  Description: ''
+  Notes: ''
+- Name: Corporation for Public Broadcasting
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Council of Chief State School Officers
+  Amount: '$64,628'
+  Description: ''
+  Notes: ''
+- Name: Council of State Governments
+  Amount: '$399,953'
+  Description: ''
+  Notes: ''
+- Name: Council Of The Great City Schools
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: Council on Postsecondary Education
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Cristo Rey Network
+  Amount: '$556,006'
+  Description: ''
+  Notes: ''
+- Name: Cristo Rey Network
+  Amount: '$139,438'
+  Description: ''
+  Notes: ''
+- Name: Dallas Independent School District
+  Amount: '$951,293'
+  Description: ''
+  Notes: ''
+- Name: Delta Project on Postsecondary Cost Productivity and Accountability
+  Amount: '$399,970'
+  Description: ''
+  Notes: ''
+- Name: Denver Public Schools
+  Amount: '$10,000,000'
+  Description: ''
+  Notes: ''
+- Name: Denver School of Science and Technology Inc
+  Amount: '$42,186'
+  Description: ''
+  Notes: ''
+- Name: DePaul University
+  Amount: '$2,641,217'
+  Description: ''
+  Notes: ''
+- Name: Downtown Community Television Center
+  Amount: '$130,000'
+  Description: ''
+  Notes: ''
+- Name: E Line Ventures LLC
+  Amount: '$1,544,748'
+  Description: ''
+  Notes: ''
+- Name: Education Commission of the States
+  Amount: '$799,221'
+  Description: ''
+  Notes: ''
+- Name: Education Commission of the States
+  Amount: '$799,221'
+  Description: ''
+  Notes: ''
+- Name: Education Trust Inc
+  Amount: '$8,300,000'
+  Description: ''
+  Notes: ''
+- Name: Education Trust Inc
+  Amount: '$1,060,000'
+  Description: ''
+  Notes: ''
+- Name: Educause
+  Amount: '$16,743,022'
+  Description: ''
+  Notes: ''
+- Name: Educause
+  Amount: '$437,451'
+  Description: ''
+  Notes: ''
+- Name: Educurious Partners
+  Amount: '$1,989,360'
+  Description: ''
+  Notes: ''
+- Name: Executive Office of Education for the Commonwealth of Massachusetts
+  Amount: '$650,000'
+  Description: ''
+  Notes: ''
+- Name: Florida Association of District School Superintendents
+  Amount: '$250,000'
+  Description: ''
+  Notes: ''
+- Name: Florida Virtual School
+  Amount: '$626,327'
+  Description: ''
+  Notes: ''
+- Name: Forsyth County Schools
+  Amount: '$151,200'
+  Description: ''
+  Notes: ''
+- Name: Foundation for Excellence in Education Inc.
+  Amount: '$501,485'
+  Description: ''
+  Notes: ''
+- Name: Foundation for the Carolinas
+  Amount: '$77,625'
+  Description: ''
+  Notes: ''
+- Name: Foundation of the Academic Senate for California Community College
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Fund for Public Schools Inc
+  Amount: '$293,344'
+  Description: ''
+  Notes: ''
+- Name: Fund for Public Schools Inc
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: GameDesk Inc.
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: 'Greater Atlanta Chamber Foundation, Inc.'
+  Amount: '$25,000'
+  Description: ''
+  Notes: ''
+- Name: Guaranteach
+  Amount: '$475,077'
+  Description: ''
+  Notes: ''
+- Name: Harvard University
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Harvard University
+  Amount: '$224,030'
+  Description: ''
+  Notes: ''
+- Name: Hillsborough County Public Schools
+  Amount: '$140,000'
+  Description: ''
+  Notes: ''
+- Name: Hillsborough County Public Schools
+  Amount: '$354,993'
+  Description: ''
+  Notes: ''
+- Name: Houston Independent School District
+  Amount: '$1,500,000'
+  Description: ''
+  Notes: ''
+- Name: Idea Public Schools
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Illinois Institute of Technology
+  Amount: '$1,144,856'
+  Description: ''
+  Notes: ''
+- Name: Indiana Commission for Higher Education
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Institute For Higher Education Policy
+  Amount: '$550,000'
+  Description: ''
+  Notes: ''
+- Name: Institute for the Study of Knowledge Management in Education
+  Amount: '$30,000'
+  Description: ''
+  Notes: ''
+- Name: Institute for the Study of Knowledge Management in Education
+  Amount: '$650,000'
+  Description: ''
+  Notes: ''
+- Name: Institute for Women's Policy Research
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Internationals Network For Public Schools Inc
+  Amount: '$74,900'
+  Description: ''
+  Notes: ''
+- Name: >-
+    James B. Hunt, Jr. Institute for Educational Leadership and Policy
+    Foundation, Inc.
+  Amount: '$292,594'
+  Description: ''
+  Notes: ''
+- Name: Jobs for the Future Inc.
+  Amount: '$2,500,000'
+  Description: ''
+  Notes: ''
+- Name: Jobs for the Future Inc.
+  Amount: '$10,933,499'
+  Description: ''
+  Notes: ''
+- Name: Jobs for the Future Inc.
+  Amount: '$2,500,000'
+  Description: ''
+  Notes: ''
+- Name: Khan Academy Inc.
+  Amount: '$1,464,667'
+  Description: ''
+  Notes: ''
+- Name: Lancaster-Lebanon Intermediate Unit 13
+  Amount: '$505,533'
+  Description: ''
+  Notes: ''
+- Name: Leading Educators Inc
+  Amount: '$1,370,000'
+  Description: ''
+  Notes: ''
+- Name: League For Innovation in the Community College
+  Amount: '$50,000'
+  Description: ''
+  Notes: ''
+- Name: League For Innovation in the Community College
+  Amount: '$362,128'
+  Description: ''
+  Notes: ''
+- Name: League For Innovation in the Community College
+  Amount: '$140,014'
+  Description: ''
+  Notes: ''
+- Name: League For Innovation in the Community College
+  Amount: '$50,000'
+  Description: ''
+  Notes: ''
+- Name: Louisiana Department of Education
+  Amount: '$286,600'
+  Description: ''
+  Notes: ''
+- Name: Louisiana Department of Education
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: 'Massachusetts Business Alliance for Education, Inc.'
+  Amount: '$151,431'
+  Description: ''
+  Notes: ''
+- Name: Mastery Charter High School
+  Amount: '$1,798,818'
+  Description: ''
+  Notes: ''
+- Name: 'MDC, Inc.'
+  Amount: '$2,566,299'
+  Description: ''
+  Notes: ''
+- Name: MDRC
+  Amount: '$168,691'
+  Description: ''
+  Notes: ''
+- Name: MDRC
+  Amount: '$1,279,577'
+  Description: ''
+  Notes: ''
+- Name: 'MetaMetrics, Inc.'
+  Amount: '$3,468,005'
+  Description: ''
+  Notes: ''
+- Name: Minnesota State Colleges and Universities Foundation
+  Amount: '$330,000'
+  Description: ''
+  Notes: ''
+- Name: Mobilizing America's Youth Inc
+  Amount: '$600,000'
+  Description: ''
+  Notes: ''
+- Name: Nashville Public Education Foundation
+  Amount: '$52,328'
+  Description: ''
+  Notes: ''
+- Name: National Alliance For Public Charter Schools
+  Amount: '$4,000,000'
+  Description: ''
+  Notes: ''
+- Name: National Center for Higher Education Management Systems
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: National Center on Education & the Economy
+  Amount: '$3,200,000'
+  Description: ''
+  Notes: ''
+- Name: National Writing Project
+  Amount: '$549,489'
+  Description: ''
+  Notes: ''
+- Name: 'NBCUniversal Media, LLC'
+  Amount: '$2,033,500'
+  Description: ''
+  Notes: ''
+- Name: NCB Capital Impact
+  Amount: '$959,373'
+  Description: ''
+  Notes: ''
+- Name: 'Nellie Mae Education Foundation, Inc.'
+  Amount: '$1,750,000'
+  Description: ''
+  Notes: ''
+- Name: New Mexico Business Roundtable for Educational Excellence
+  Amount: '$5,000'
+  Description: ''
+  Notes: ''
+- Name: New Teacher Center
+  Amount: '$198,704'
+  Description: ''
+  Notes: ''
+- Name: 'New Technology Network, LLC'
+  Amount: '$2,112,080'
+  Description: ''
+  Notes: ''
+- Name: 'New Visions for Public Schools, Inc'
+  Amount: '$8,149,935'
+  Description: ''
+  Notes: ''
+- Name: New York Charter Schools Association Inc
+  Amount: '$204,988'
+  Description: ''
+  Notes: ''
+- Name: New York City Charter School Center
+  Amount: '$950,000'
+  Description: ''
+  Notes: ''
+- Name: New York City Outward Bound Center Inc
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: New York University
+  Amount: '$40,282'
+  Description: ''
+  Notes: ''
+- Name: North American Council for Online Learning
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: North American Council for Online Learning
+  Amount: '$64,628'
+  Description: ''
+  Notes: ''
+- Name: North Carolina State University
+  Amount: '$99,983'
+  Description: ''
+  Notes: ''
+- Name: Ohio Board of Regents
+  Amount: '$667,404'
+  Description: ''
+  Notes: ''
+- Name: Ohio Business Alliance for Higher Education and the Economy
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: Pennsylvania Business Council Education Foundation
+  Amount: '$5,000'
+  Description: ''
+  Notes: ''
+- Name: Pennsylvania Department of Education
+  Amount: '$526,960'
+  Description: ''
+  Notes: ''
+- Name: Pennsylvania Department of Education
+  Amount: '$768,794'
+  Description: ''
+  Notes: ''
+- Name: Pollinate Ventures
+  Amount: '$19,490'
+  Description: ''
+  Notes: ''
+- Name: Prichard Committee for Academic Excellence
+  Amount: '$125,962'
+  Description: ''
+  Notes: ''
+- Name: Prichard Committee for Academic Excellence
+  Amount: '$47,902'
+  Description: ''
+  Notes: ''
+- Name: Prichard Committee for Academic Excellence
+  Amount: '$291,070'
+  Description: ''
+  Notes: ''
+- Name: Prichard Committee for Academic Excellence
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: Prince George's County Public Schools
+  Amount: '$2,204,629'
+  Description: ''
+  Notes: ''
+- Name: Public Broadcasting Service
+  Amount: '$499,997'
+  Description: ''
+  Notes: ''
+- Name: Public Education Network
+  Amount: '$3,000,000'
+  Description: ''
+  Notes: ''
+- Name: Purdue University
+  Amount: '$1,432,263'
+  Description: ''
+  Notes: ''
+- Name: Research Foundation of State University of New York
+  Amount: '$19,000'
+  Description: ''
+  Notes: ''
+- Name: Research Foundation of the City University of New York
+  Amount: '$3,016,874'
+  Description: ''
+  Notes: ''
+- Name: Research Foundation of the City University of New York
+  Amount: '$2,102,230'
+  Description: ''
+  Notes: ''
+- Name: Riverside Community College District
+  Amount: '$3,029,582'
+  Description: ''
+  Notes: ''
+- Name: 'Rockefeller Philanthropy Advisors, Inc.'
+  Amount: '$255,150'
+  Description: ''
+  Notes: ''
+- Name: Rodel Charitable Foundation DE
+  Amount: '$27,945'
+  Description: ''
+  Notes: ''
+- Name: Saint Paul Public Schools
+  Amount: '$499,989'
+  Description: ''
+  Notes: ''
+- Name: School District of Philadelphia
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: SchoolSeed Foundation
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: 'Southeastern Council of Foundations, Inc.'
+  Amount: '$7,500'
+  Description: ''
+  Notes: ''
+- Name: Southern Regional Education Board
+  Amount: '$244,924'
+  Description: ''
+  Notes: ''
+- Name: Stand for Children Leadership Center
+  Amount: '$3,476,300'
+  Description: ''
+  Notes: ''
+- Name: Stanford University
+  Amount: '$1,432,966'
+  Description: ''
+  Notes: ''
+- Name: 'Teach for America, Inc.'
+  Amount: '$250,000'
+  Description: ''
+  Notes: ''
+- Name: 'Teach for America, Inc.'
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: Tennessee Association of Business Foundation
+  Amount: '$274,500'
+  Description: ''
+  Notes: ''
+- Name: Tennessee Board of Regents
+  Amount: '$96,640'
+  Description: ''
+  Notes: ''
+- Name: Tennessee Board of Regents
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: Tennessee Higher Education Commission
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Tennessee State Collaborative on Reforming Education
+  Amount: '$75,000'
+  Description: ''
+  Notes: ''
+- Name: Tennessee State Collaborative on Reforming Education
+  Amount: '$300,250'
+  Description: ''
+  Notes: ''
+- Name: Texas Charter Schools Association
+  Amount: '$650,000'
+  Description: ''
+  Notes: ''
+- Name: Texas Higher Education Coordinating Board
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: The Achievement Network
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: The Arizona Charter Schools Association
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: The Aspen Institute Inc
+  Amount: '$2,000,000'
+  Description: ''
+  Notes: ''
+- Name: The Institute for College Access and Success
+  Amount: '$100,970'
+  Description: ''
+  Notes: ''
+- Name: The NEA Foundation for the Improvement of Education
+  Amount: '$38,420'
+  Description: ''
+  Notes: ''
+- Name: The Seattle Foundation
+  Amount: '$1,966,937'
+  Description: ''
+  Notes: ''
+- Name: 'The SEED Foundation, Inc.'
+  Amount: '$75,970'
+  Description: ''
+  Notes: ''
+- Name: The University of the State of New York
+  Amount: '$892,500'
+  Description: ''
+  Notes: ''
+- Name: Trustees of Indiana University
+  Amount: '$195,967'
+  Description: ''
+  Notes: ''
+- Name: Tulsa Public Schools
+  Amount: '$1,500,000'
+  Description: ''
+  Notes: ''
+- Name: 'U.S. Education Delivery Institute, Inc.'
+  Amount: '$3,249,835'
+  Description: ''
+  Notes: ''
+- Name: United Federation of Teachers Educational Foundation Inc.
+  Amount: '$30,250'
+  Description: ''
+  Notes: ''
+- Name: United Way of Southern Cameron County
+  Amount: '$99,935'
+  Description: ''
+  Notes: ''
+- Name: University of Georgia
+  Amount: '$370,938'
+  Description: ''
+  Notes: ''
+- Name: University of Puget Sound
+  Amount: '$10,000'
+  Description: ''
+  Notes: ''
+- Name: University of Washington
+  Amount: '$600,000'
+  Description: ''
+  Notes: ''
+- Name: 'University System of Georgia Foundation, Inc.'
+  Amount: '$250,000'
+  Description: ''
+  Notes: ''
+- Name: Uplift Education
+  Amount: '$75,000'
+  Description: ''
+  Notes: ''
+- Name: Washington Regional Association Of Grantmakers
+  Amount: '$10,500'
+  Description: ''
+  Notes: ''
+- Name: West Virginia Higher Education Policy Commission
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: WestEd
+  Amount: '$400,000'
+  Description: ''
+  Notes: ''
+- Name: Western Governors University
+  Amount: '$750,000'
+  Description: ''
+  Notes: ''
+- Name: Western Interstate Commission for Higher Education
+  Amount: '$1,500,000'
+  Description: ''
+  Notes: ''
+- Name: Worcester Public Schools
+  Amount: '$312,266'
+  Description: ''
+  Notes: ''
