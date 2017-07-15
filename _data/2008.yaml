@@ -1,4 +1,420 @@
-- Name: Bill Gates
-  Amount: One Billion Dollars
-  Description: Money to buy off politicians
-  Notes: Democracy
+- Name: 'ACT, Inc'
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: Advance Illinois NFP
+  Amount: '$1,800,000'
+  Description: ''
+  Notes: ''
+- Name: Alliance for Education
+  Amount: '$6,929,430'
+  Description: ''
+  Notes: ''
+- Name: Alliance for Education
+  Amount: '$309,554'
+  Description: ''
+  Notes: ''
+- Name: American Institutes for Research in the Behavioral Sciences
+  Amount: '$325,000'
+  Description: ''
+  Notes: ''
+- Name: American Institutes for Research in the Behavioral Sciences
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: American Youth Work Center
+  Amount: '$750,000'
+  Description: ''
+  Notes: ''
+- Name: Asia Society
+  Amount: '$7,750,417'
+  Description: ''
+  Notes: ''
+- Name: Aspire Public Schools
+  Amount: '$2,899,727'
+  Description: ''
+  Notes: ''
+- Name: Brown University
+  Amount: '$78,200'
+  Description: ''
+  Notes: ''
+- Name: Business Higher Education Forum
+  Amount: '$910,000'
+  Description: ''
+  Notes: ''
+- Name: Center for Law and Social Policy
+  Amount: '$400,000'
+  Description: ''
+  Notes: ''
+- Name: 'College for All Texans Foundation: Closing the Gaps'
+  Amount: '$1,221,800'
+  Description: ''
+  Notes: ''
+- Name: College Success Foundation
+  Amount: '$1,053,150'
+  Description: ''
+  Notes: ''
+- Name: College Summit Inc
+  Amount: '$3,500,000'
+  Description: ''
+  Notes: ''
+- Name: College Summit Inc
+  Amount: '$1,300,000'
+  Description: ''
+  Notes: ''
+- Name: Communities Foundation of Texas
+  Amount: '$2,901,632'
+  Description: ''
+  Notes: ''
+- Name: Communities Foundation of Texas
+  Amount: '$2,046,674'
+  Description: ''
+  Notes: ''
+- Name: Dallas Independent School District
+  Amount: '$3,774,912'
+  Description: ''
+  Notes: ''
+- Name: DC VOICE
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: 'Demos: A Network for Ideas & Action'
+  Amount: '$600,000'
+  Description: ''
+  Notes: ''
+- Name: Deutsche Bank Americas Foundation
+  Amount: '$2,000,000'
+  Description: ''
+  Notes: ''
+- Name: DonorsChoose.org
+  Amount: '$4,114,700'
+  Description: ''
+  Notes: ''
+- Name: E3 Alliance
+  Amount: '$144,917'
+  Description: ''
+  Notes: ''
+- Name: Educational Broadcasting Corp
+  Amount: '$506,504'
+  Description: ''
+  Notes: ''
+- Name: EdVisions Inc
+  Amount: '$1,118,424'
+  Description: ''
+  Notes: ''
+- Name: Envision Education Inc
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: Fund for Educational Excellence
+  Amount: '$1,229,730'
+  Description: ''
+  Notes: ''
+- Name: 'Fund for the City of New York, Inc.'
+  Amount: '$513,219'
+  Description: ''
+  Notes: ''
+- Name: Gateway to College National Network
+  Amount: '$499,398'
+  Description: ''
+  Notes: ''
+- Name: Georgetown University
+  Amount: '$2,976,601'
+  Description: ''
+  Notes: ''
+- Name: 'GreatSchools, Inc.'
+  Amount: '$6,550,516'
+  Description: ''
+  Notes: ''
+- Name: Harvard University
+  Amount: '$550,000'
+  Description: ''
+  Notes: ''
+- Name: Harvard University
+  Amount: '$90,000'
+  Description: ''
+  Notes: ''
+- Name: Harvard University
+  Amount: '$60,614'
+  Description: ''
+  Notes: ''
+- Name: Harvard University
+  Amount: '$1,961,932'
+  Description: ''
+  Notes: ''
+- Name: Higher Education Policy Institute
+  Amount: '$5,384,226'
+  Description: ''
+  Notes: ''
+- Name: IB Fund US Inc
+  Amount: '$450,000'
+  Description: ''
+  Notes: ''
+- Name: Idea Public Schools
+  Amount: '$3,498,875'
+  Description: ''
+  Notes: ''
+- Name: Illinois State Board of Education
+  Amount: '$225,000'
+  Description: ''
+  Notes: ''
+- Name: 'Impact Strategies, Inc.'
+  Amount: '$1,200,000'
+  Description: ''
+  Notes: ''
+- Name: Innosight Institute Inc
+  Amount: '$588,559'
+  Description: ''
+  Notes: ''
+- Name: Institute for Women's Policy Research
+  Amount: '$187,475'
+  Description: ''
+  Notes: ''
+- Name: 'Jobs for America''s Graduates, Inc.'
+  Amount: '$50,000'
+  Description: ''
+  Notes: ''
+- Name: Jobs for the Future Inc.
+  Amount: '$3,690,595'
+  Description: ''
+  Notes: ''
+- Name: KnowledgeWorks Foundation
+  Amount: '$490,021'
+  Description: ''
+  Notes: ''
+- Name: Learning Point Associates
+  Amount: '$879,868'
+  Description: ''
+  Notes: ''
+- Name: MCNC
+  Amount: '$475,000'
+  Description: ''
+  Notes: ''
+- Name: 'MDC, Inc.'
+  Amount: '$16,700,000'
+  Description: ''
+  Notes: ''
+- Name: MDRC
+  Amount: '$13,250,000'
+  Description: ''
+  Notes: ''
+- Name: National Alliance For Public Charter Schools
+  Amount: '$2,605,527'
+  Description: ''
+  Notes: ''
+- Name: National Council of La Raza
+  Amount: '$600,000'
+  Description: ''
+  Notes: ''
+- Name: National Student Clearinghouse
+  Amount: '$792,216'
+  Description: ''
+  Notes: ''
+- Name: 'National Youth Employment Coalition, Inc.'
+  Amount: '$5,664,306'
+  Description: ''
+  Notes: ''
+- Name: New Leaders Inc
+  Amount: '$6,080,340'
+  Description: ''
+  Notes: ''
+- Name: New Schools Fund dba NewSchools Venture Fund
+  Amount: '$3,999,127'
+  Description: ''
+  Notes: ''
+- Name: New Schools Fund dba NewSchools Venture Fund
+  Amount: '$1,752,700'
+  Description: ''
+  Notes: ''
+- Name: New Schools Fund dba NewSchools Venture Fund
+  Amount: '$4,000,000'
+  Description: ''
+  Notes: ''
+- Name: New Technology Foundation
+  Amount: '$496,776'
+  Description: ''
+  Notes: ''
+- Name: New York University
+  Amount: '$2,999,960'
+  Description: ''
+  Notes: ''
+- Name: 'Newark Charter School Fund, Inc.'
+  Amount: '$3,595,070'
+  Description: ''
+  Notes: ''
+- Name: 'North Carolina New Schools Project, Inc.'
+  Amount: '$1,612,877'
+  Description: ''
+  Notes: ''
+- Name: Office of Superintendent of Public Instruction
+  Amount: '$75,000'
+  Description: ''
+  Notes: ''
+- Name: Ohio Business Alliance for Higher Education and the Economy
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Ohio Department of Education
+  Amount: '$1,175,000'
+  Description: ''
+  Notes: ''
+- Name: Ohio Grantmakers Forum
+  Amount: '$105,000'
+  Description: ''
+  Notes: ''
+- Name: Ounce of Prevention Fund
+  Amount: '$305,719'
+  Description: ''
+  Notes: ''
+- Name: Pacific Institute For Community Organizations
+  Amount: '$1,600,000'
+  Description: ''
+  Notes: ''
+- Name: Partnership For Los Angeles Schools
+  Amount: '$1,200,000'
+  Description: ''
+  Notes: ''
+- Name: Princeton University
+  Amount: '$1,099,487'
+  Description: ''
+  Notes: ''
+- Name: Princeton University
+  Amount: '$892,121'
+  Description: ''
+  Notes: ''
+- Name: Proforum d/b/a National Superintendents Roundtable
+  Amount: '$30,000'
+  Description: ''
+  Notes: ''
+- Name: Project GRAD
+  Amount: '$2,025,892'
+  Description: ''
+  Notes: ''
+- Name: Public Agenda
+  Amount: '$584,954'
+  Description: ''
+  Notes: ''
+- Name: Rensselaer Polytechnic Institute
+  Amount: '$231,382'
+  Description: ''
+  Notes: ''
+- Name: 'SeaChange Capital Partners, Inc.'
+  Amount: '$4,000,000'
+  Description: ''
+  Notes: ''
+- Name: Seattle Biomedical Research Institute
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Street Schools Network
+  Amount: '$742,223'
+  Description: ''
+  Notes: ''
+- Name: Target Area Development Corporation
+  Amount: '$725,000'
+  Description: ''
+  Notes: ''
+- Name: 'Teach for America, Inc.'
+  Amount: '$1,465,000'
+  Description: ''
+  Notes: ''
+- Name: Team Pennsylvania Foundation
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: Texas Public Education Reform Foundation
+  Amount: '$75,000'
+  Description: ''
+  Notes: ''
+- Name: Texas Valley Communities Foundation
+  Amount: '$546,864'
+  Description: ''
+  Notes: ''
+- Name: The Aspen Institute Inc
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: The Big Picture Company
+  Amount: '$4,079,157'
+  Description: ''
+  Notes: ''
+- Name: The Corps Network
+  Amount: '$750,000'
+  Description: ''
+  Notes: ''
+- Name: The Library of Congress
+  Amount: '$61,854'
+  Description: ''
+  Notes: ''
+- Name: The Schott Foundation For Public Education
+  Amount: '$750,000'
+  Description: ''
+  Notes: ''
+- Name: The Seattle Foundation
+  Amount: '$1,181,375'
+  Description: ''
+  Notes: ''
+- Name: The Washington State Board of Education
+  Amount: '$850,000'
+  Description: ''
+  Notes: ''
+- Name: 'Third Sector New England, Inc.'
+  Amount: '$3,179,363'
+  Description: ''
+  Notes: ''
+- Name: Twenty First Century Foundation
+  Amount: '$302,425'
+  Description: ''
+  Notes: ''
+- Name: University of California - Berkeley
+  Amount: '$437,807'
+  Description: ''
+  Notes: ''
+- Name: 'University of California, Los Angeles'
+  Amount: '$498,724'
+  Description: ''
+  Notes: ''
+- Name: 'University of California, Los Angeles'
+  Amount: '$920,000'
+  Description: ''
+  Notes: ''
+- Name: 'University of California, Los Angeles'
+  Amount: '$6,853,578'
+  Description: ''
+  Notes: ''
+- Name: 'University of California, Los Angeles'
+  Amount: '$920,000'
+  Description: ''
+  Notes: ''
+- Name: University of Chicago
+  Amount: '$3,000,000'
+  Description: ''
+  Notes: ''
+- Name: University of Chicago - Urban Education Institute
+  Amount: '$1,894,228'
+  Description: ''
+  Notes: ''
+- Name: University of Washington
+  Amount: '$15,461'
+  Description: ''
+  Notes: ''
+- Name: University of Wisconsin
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: Urban Teacher Residency United Inc
+  Amount: '$328,000'
+  Description: ''
+  Notes: ''
+- Name: Western Interstate Commission for Higher Education
+  Amount: '$212,150'
+  Description: ''
+  Notes: ''
+- Name: Workforce Strategy Center
+  Amount: '$208,900'
+  Description: ''
+  Notes: ''
+- Name: 'YouthBuild USA, Inc.'
+  Amount: '$7,298,763'
+  Description: ''
+  Notes: ''
