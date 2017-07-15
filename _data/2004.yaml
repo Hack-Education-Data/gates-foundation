@@ -1,3 +1,60 @@
+- Name: Alliance for a Better Community
+  Amount: '$476,683'
+  Description: >-
+    To raise community awareness of local high school issues in Los Angeles
+    related to student retention and college readiness
+  Notes: ''
+- Name: American Council on Education
+  Amount: '$25,000'
+  Description: >-
+    To support a report on the school-to-college transition for distribution to
+    higher education leaders and related organizations
+  Notes: ''
+- Name: American Indian Graduate Center Scholars
+  Amount: '$1,000,000'
+  Description: For general operating support
+  Notes: ''
+- Name: American Institutes for Research in the Behavioral Sciences
+  Amount: '$1,449,039'
+  Description: To conduct a second phase evaluation of San Diego City School reform efforts
+  Notes: ''
+- Name: Antioch University
+  Amount: '$5,542,579'
+  Description: >-
+    To expand the Early College High School model into tribal schools outside
+    Washington state
+  Notes: ''
+- Name: Association for the Advancement of Mexican Americans
+  Amount: '$320,000'
+  Description: To support business analysis and planning
+  Notes: ''
+- Name: Carnegie Foundation for the Advancement of Teaching
+  Amount: '$75,000'
+  Description: >-
+    To examine the working relationships between foundations and higher
+    education and K-12 schools leading to a conference, book, and continuing
+    web-based dialogue
+  Notes: ''
+- Name: 'Children''s First Fund, The Chicago Public School Foundation'
+  Amount: '$1,243,039'
+  Description: ''
+  Notes: ''
+- Name: Clark University
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: College Entrance Examination Board
+  Amount: '$672,000'
+  Description: ''
+  Notes: ''
+- Name: Community Initiatives
+  Amount: '$77,367'
+  Description: ''
+  Notes: ''
+- Name: Council for Christian Colleges & Universities
+  Amount: '$35,000'
+  Description: ''
+  Notes: ''
 - Name: Council of Chief State School Officers
   Amount: '$25,000,000'
   Description: >-
@@ -5,17 +62,85 @@
     strengthen accountability and improve results through data-driven decision
     making
   Notes: ''
-- Name: Portland Community College
-  Amount: '$6,997,047'
-  Description: >-
-    To support existing and develop new College Bound sites to support at-risk
-    youth
+- Name: Digital Learning Commons
+  Amount: '$667,235'
+  Description: ''
   Notes: ''
-- Name: Achieve Inc
-  Amount: '$4,095,931'
-  Description: >-
-    To assist strategic states and to encourage all states to put in place high
-    school graduation requirements that align with college entry requirements
+- Name: EdSource Inc.
+  Amount: '$450,000'
+  Description: ''
+  Notes: ''
+- Name: EdVisions Inc
+  Amount: '$13,512'
+  Description: ''
+  Notes: ''
+- Name: Every Child Can Learn Foundation
+  Amount: '$1,500,000'
+  Description: ''
+  Notes: ''
+- Name: Grantmakers for Education
+  Amount: '$18,750'
+  Description: ''
+  Notes: ''
+- Name: 'GreatSchools, Inc.'
+  Amount: '$1,500,000'
+  Description: ''
+  Notes: ''
+- Name: Hispanic Scholarship Fund
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: 'Impact Strategies, Inc.'
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: Institute for Research and Reform in Education Inc.
+  Amount: '$3,768,084'
+  Description: ''
+  Notes: ''
+- Name: Institute for Teaching
+  Amount: '$1,939,650'
+  Description: ''
+  Notes: ''
+- Name: Jobs for the Future Inc.
+  Amount: '$1,697,978'
+  Description: ''
+  Notes: ''
+- Name: Jobs for the Future Inc.
+  Amount: '$7,613,637'
+  Description: ''
+  Notes: ''
+- Name: Johns Hopkins University
+  Amount: '$883,200'
+  Description: ''
+  Notes: ''
+- Name: KnowledgeWorks Foundation
+  Amount: '$1,200,000'
+  Description: ''
+  Notes: ''
+- Name: KnowledgeWorks Foundation
+  Amount: '$131,417'
+  Description: ''
+  Notes: ''
+- Name: Linking Education and Economic Development in Sacramento
+  Amount: '$100,000'
+  Description: ''
+  Notes: ''
+- Name: Manhattan Institute for Policy Research Inc
+  Amount: '$115,000'
+  Description: ''
+  Notes: ''
+- Name: MDRC
+  Amount: '$650,000'
+  Description: ''
+  Notes: ''
+- Name: Michigan Institute for Educational Management
+  Amount: '$1,605,669'
+  Description: ''
+  Notes: ''
+- Name: National Coalition of Community Foundations for Youth
+  Amount: '$1,000,000'
+  Description: ''
   Notes: ''
 - Name: National Council of La Raza
   Amount: '$3,632,666'
@@ -23,9 +148,147 @@
     To create new early college charter high schools and redesign existing
     charter high schools
   Notes: ''
+- Name: National Council of La Raza
+  Amount: '$3,632,666'
+  Description: ''
+  Notes: ''
+- Name: National Equity Project
+  Amount: '$900,000'
+  Description: ''
+  Notes: ''
+- Name: New Leaders Inc
+  Amount: '$9,967,084'
+  Description: ''
+  Notes: ''
+- Name: New Schools Fund dba NewSchools Venture Fund
+  Amount: '$75,000'
+  Description: ''
+  Notes: ''
+- Name: 'New Visions for Public Schools, Inc'
+  Amount: '$583,800'
+  Description: ''
+  Notes: ''
+- Name: 'New Visions for Public Schools, Inc'
+  Amount: '$25,106,639'
+  Description: ''
+  Notes: ''
+- Name: New York City Department of Education
+  Amount: '$1,125,270'
+  Description: ''
+  Notes: ''
+- Name: New York State Education Department
+  Amount: '$2,100,000'
+  Description: ''
+  Notes: ''
+- Name: North American Council for Online Learning
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: North American Council for Online Learning
+  Amount: '$90,000'
+  Description: ''
+  Notes: ''
+- Name: Ohio Department of Education
+  Amount: '$2,100,000'
+  Description: ''
+  Notes: ''
+- Name: Ohio Department of Education
+  Amount: '$700,000'
+  Description: ''
+  Notes: ''
+- Name: 'Organization of Chinese Americans, Inc.'
+  Amount: '$750,000'
+  Description: ''
+  Notes: ''
+- Name: Parents United for Responsible Education P U R E
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: Perspectives Charter School
+  Amount: '$553,493'
+  Description: ''
+  Notes: ''
+- Name: Portland Community College
+  Amount: '$6,997,047'
+  Description: >-
+    To support existing and develop new College Bound sites to support at-risk
+    youth
+  Notes: ''
+- Name: RAND Corporation
+  Amount: '$39,900'
+  Description: ''
+  Notes: ''
+- Name: Southern Governors' Association of The Council of State Governments
+  Amount: '$112,021'
+  Description: ''
+  Notes: ''
+- Name: 'State of California: Office of the Secretary for Education'
+  Amount: '$87,028'
+  Description: ''
+  Notes: ''
+- Name: The Aspen Institute Inc
+  Amount: '$574,060'
+  Description: ''
+  Notes: ''
+- Name: The Diocese of Yakima
+  Amount: '$150,000'
+  Description: ''
+  Notes: ''
+- Name: The Education Trust
+  Amount: '$1,200,000'
+  Description: ''
+  Notes: ''
+- Name: 'United Negro College Fund, Inc.'
+  Amount: '$1,500,000'
+  Description: ''
+  Notes: ''
+- Name: 'United Negro College Fund, Inc.'
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: University of California - Berkeley
+  Amount: '$120,458'
+  Description: ''
+  Notes: ''
+- Name: University of Chicago
+  Amount: '$1,233,281'
+  Description: ''
+  Notes: ''
+- Name: University of Washington Foundation
+  Amount: '$189,886'
+  Description: ''
+  Notes: ''
+- Name: University of Washington Foundation
+  Amount: '$987,579'
+  Description: ''
+  Notes: ''
+- Name: University of Washington Foundation
+  Amount: '$79,115'
+  Description: ''
+  Notes: ''
+- Name: University of Washington Foundation
+  Amount: '$899,875'
+  Description: ''
+  Notes: ''
 - Name: University System of Georgia Foundation Inc
   Amount: '$2,000,000'
   Description: >-
     To support the development and implementation of six Early Colleges in
     Georgia for students underserved in traditional high schools
+  Notes: ''
+- Name: 'University System of Georgia Foundation, Inc.'
+  Amount: '$2,000,000'
+  Description: ''
+  Notes: ''
+- Name: Urban Assembly Inc
+  Amount: '$8,873,335'
+  Description: ''
+  Notes: ''
+- Name: Washington State Board for Community & Technical Colleges
+  Amount: '$423,500'
+  Description: ''
+  Notes: ''
+- Name: YES Prep Public Schools
+  Amount: '$170,000'
+  Description: ''
   Notes: ''
