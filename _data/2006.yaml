@@ -1,4 +1,412 @@
-- Name: Bill Gates
-  Amount: One Billion Dollars
-  Description: Money to buy off politicians
-  Notes: Democracy
+- Name: ACORN
+  Amount: '$260,000'
+  Description: ''
+  Notes: ''
+- Name: 'ACT, Inc'
+  Amount: '$400,000'
+  Description: ''
+  Notes: ''
+- Name: American Institutes for Research in the Behavioral Sciences
+  Amount: '$7,000,000'
+  Description: ''
+  Notes: ''
+- Name: Aspira Inc of Illinois
+  Amount: '$960,000'
+  Description: ''
+  Notes: ''
+- Name: Association for the Study of Higher Education
+  Amount: '$10,000'
+  Description: ''
+  Notes: ''
+- Name: Atlanta Public Schools
+  Amount: '$5,907,665'
+  Description: ''
+  Notes: ''
+- Name: Austin Independent School District
+  Amount: '$8,474,994'
+  Description: ''
+  Notes: ''
+- Name: Bellevue Schools Foundation
+  Amount: '$1,935,974'
+  Description: ''
+  Notes: ''
+- Name: Boston Public Schools
+  Amount: '$2,002,000'
+  Description: ''
+  Notes: ''
+- Name: Brown University
+  Amount: '$800,000'
+  Description: ''
+  Notes: ''
+- Name: California Business for Education Excellence Foundation
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: California County Superintendents Educational Services Association
+  Amount: '$15,206,150'
+  Description: ''
+  Notes: ''
+- Name: California Tomorrow
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: Center for Strengthening the Teaching Profession
+  Amount: '$750,584'
+  Description: ''
+  Notes: ''
+- Name: Center for Strengthening the Teaching Profession
+  Amount: '$15,000'
+  Description: ''
+  Notes: ''
+- Name: Charter School Leadership Council
+  Amount: '$800,000'
+  Description: ''
+  Notes: ''
+- Name: Charter Schools Policy Institute
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: Chicago Public Schools
+  Amount: '$21,574,274'
+  Description: ''
+  Notes: ''
+- Name: Children Now
+  Amount: '$210,000'
+  Description: ''
+  Notes: ''
+- Name: 'Clover Park School District #400'
+  Amount: '$638,620'
+  Description: ''
+  Notes: ''
+- Name: Coalition of Essential Schools Northwest
+  Amount: '$3,004,365'
+  Description: ''
+  Notes: ''
+- Name: Coalition of Essential Schools Northwest
+  Amount: '$733,793'
+  Description: ''
+  Notes: ''
+- Name: College Entrance Examination Board
+  Amount: '$16,294,847'
+  Description: ''
+  Notes: ''
+- Name: College Summit Inc
+  Amount: '$2,000,000'
+  Description: ''
+  Notes: ''
+- Name: 'Communities in Schools, Inc.'
+  Amount: '$9,900,000'
+  Description: ''
+  Notes: ''
+- Name: Community Initiatives
+  Amount: '$152,232'
+  Description: ''
+  Notes: ''
+- Name: Community Studies Inc
+  Amount: '$442,320'
+  Description: ''
+  Notes: ''
+- Name: Community Studies Inc
+  Amount: '$1,440,590'
+  Description: ''
+  Notes: ''
+- Name: Cristo Rey Network
+  Amount: '$6,000,067'
+  Description: ''
+  Notes: ''
+- Name: DC Public Education Fund
+  Amount: '$4,873,500'
+  Description: ''
+  Notes: ''
+- Name: Denver Public Schools
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: Denver School of Science and Technology Inc
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: District of Columbia College Success Foundation
+  Amount: '$116,627,651'
+  Description: ''
+  Notes: ''
+- Name: East Bay Community Foundation
+  Amount: '$650,000'
+  Description: ''
+  Notes: ''
+- Name: EdSource Inc.
+  Amount: '$20,000'
+  Description: ''
+  Notes: ''
+- Name: Education Service Center Region I of Texas
+  Amount: '$7,945,004'
+  Description: ''
+  Notes: ''
+- Name: Education Service Center Region XIII
+  Amount: '$758,910'
+  Description: ''
+  Notes: ''
+- Name: Educational Testing Service
+  Amount: '$4,665,344'
+  Description: ''
+  Notes: ''
+- Name: Envision Education Inc
+  Amount: '$3,950,000'
+  Description: ''
+  Notes: ''
+- Name: Foundation for California Community Colleges
+  Amount: '$1,800,000'
+  Description: ''
+  Notes: ''
+- Name: Good Shepherd Services
+  Amount: '$2,400,000'
+  Description: ''
+  Notes: ''
+- Name: Greater Kansas City Community Foundation
+  Amount: '$5,115,250'
+  Description: ''
+  Notes: ''
+- Name: Green Dot Public Schools
+  Amount: '$9,675,588'
+  Description: ''
+  Notes: ''
+- Name: Illinois Network Of Charter Schools
+  Amount: '$400,000'
+  Description: ''
+  Notes: ''
+- Name: Institute for Research and Reform in Education Inc.
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Institute for Research and Reform in Education Inc.
+  Amount: '$1,957,395'
+  Description: ''
+  Notes: ''
+- Name: Institute for Research and Reform in Education Inc.
+  Amount: '$4,146,246'
+  Description: ''
+  Notes: ''
+- Name: Institute for Teaching
+  Amount: '$50,000'
+  Description: ''
+  Notes: ''
+- Name: Internationals Network For Public Schools Inc
+  Amount: '$5,420,332'
+  Description: ''
+  Notes: ''
+- Name: Jobs for the Future Inc.
+  Amount: '$330,000'
+  Description: ''
+  Notes: ''
+- Name: Johns Hopkins University
+  Amount: '$1,896,129'
+  Description: ''
+  Notes: ''
+- Name: KidsOhio.org
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: 'KIPP, Inc.'
+  Amount: '$10,000,000'
+  Description: ''
+  Notes: ''
+- Name: Los Angeles Unified School District
+  Amount: '$1,312,500'
+  Description: ''
+  Notes: ''
+- Name: Make The Road By Walking
+  Amount: '$175,000'
+  Description: ''
+  Notes: ''
+- Name: Marquette University
+  Amount: '$2,000,000'
+  Description: ''
+  Notes: ''
+- Name: MDRC
+  Amount: '$325,000'
+  Description: ''
+  Notes: ''
+- Name: Metropolitan Planning Council
+  Amount: '$604,973'
+  Description: ''
+  Notes: ''
+- Name: Michigan State University
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Milwaukee Public Schools
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: National Academy Foundation
+  Amount: '$5,000,000'
+  Description: ''
+  Notes: ''
+- Name: National Academy Foundation
+  Amount: '$3,380,890'
+  Description: ''
+  Notes: ''
+- Name: National Alliance For Public Charter Schools
+  Amount: '$50,000'
+  Description: ''
+  Notes: ''
+- Name: National Coalition of Community Foundations for Youth
+  Amount: '$35,000'
+  Description: ''
+  Notes: ''
+- Name: National Coalition of Community Foundations for Youth
+  Amount: '$1,000,000'
+  Description: ''
+  Notes: ''
+- Name: New Schools for Chicago
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: New Schools Fund dba NewSchools Venture Fund
+  Amount: '$27,640,000'
+  Description: ''
+  Notes: ''
+- Name: New Technology Fund
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: 'New Visions for Public Schools, Inc'
+  Amount: '$3,600,000'
+  Description: ''
+  Notes: ''
+- Name: New York City Department of Education
+  Amount: '$1,350,000'
+  Description: ''
+  Notes: ''
+- Name: New York University
+  Amount: '$481,844'
+  Description: ''
+  Notes: ''
+- Name: North Carolina Department of Public Instruction
+  Amount: '$1,819,055'
+  Description: ''
+  Notes: ''
+- Name: 'North Carolina New Schools Project, Inc.'
+  Amount: '$385,801'
+  Description: ''
+  Notes: ''
+- Name: 'North Carolina New Schools Project, Inc.'
+  Amount: '$1,463,346'
+  Description: ''
+  Notes: ''
+- Name: 'North Carolina New Schools Project, Inc.'
+  Amount: '$14,518,052'
+  Description: ''
+  Notes: ''
+- Name: Oakland Community Organization
+  Amount: '$500,000'
+  Description: ''
+  Notes: ''
+- Name: Office of Superintendent of Public Instruction
+  Amount: '$75,000'
+  Description: ''
+  Notes: ''
+- Name: Office of the Mayor of Los Angeles
+  Amount: '$262,500'
+  Description: ''
+  Notes: ''
+- Name: Ohio Alliance for Public Charter Schools
+  Amount: '$642,753'
+  Description: ''
+  Notes: ''
+- Name: Ohio Business Alliance for Higher Education and the Economy
+  Amount: '$250,000'
+  Description: ''
+  Notes: ''
+- Name: Ohio Department of Education
+  Amount: '$1,175,000'
+  Description: ''
+  Notes: ''
+- Name: Ohio Grantmakers Forum
+  Amount: '$50,000'
+  Description: ''
+  Notes: ''
+- Name: Portland Public Schools
+  Amount: '$2,415,760'
+  Description: ''
+  Notes: ''
+- Name: RAND Corporation
+  Amount: '$300,000'
+  Description: ''
+  Notes: ''
+- Name: Rennie Center For Education Research And Policy
+  Amount: '$400,000'
+  Description: ''
+  Notes: ''
+- Name: 'Seattle School District #1'
+  Amount: '$850,000'
+  Description: ''
+  Notes: ''
+- Name: Skillpoint Alliance
+  Amount: '$125,000'
+  Description: ''
+  Notes: ''
+- Name: St. HOPE Academy
+  Amount: '$700,000'
+  Description: ''
+  Notes: ''
+- Name: Stanford University
+  Amount: '$650,000'
+  Description: ''
+  Notes: ''
+- Name: 'The Bridgespan Group, Inc.'
+  Amount: '$2,914,000'
+  Description: ''
+  Notes: ''
+- Name: The Education Resources Institute
+  Amount: '$250,000'
+  Description: ''
+  Notes: ''
+- Name: The Education Resources Institute
+  Amount: '$10,000'
+  Description: ''
+  Notes: ''
+- Name: The Education Trust
+  Amount: '$111,376'
+  Description: ''
+  Notes: ''
+- Name: The Education Trust
+  Amount: '$94,500'
+  Description: ''
+  Notes: ''
+- Name: The Efficacy Institute Incorporated
+  Amount: '$405,698'
+  Description: ''
+  Notes: ''
+- Name: The Henry Ford Learning Institute
+  Amount: '$3,000,000'
+  Description: ''
+  Notes: ''
+- Name: 'Third Sector New England, Inc.'
+  Amount: '$4,336,500'
+  Description: ''
+  Notes: ''
+- Name: 'Third Sector New England, Inc.'
+  Amount: '$2,100,000'
+  Description: ''
+  Notes: ''
+- Name: 'United Negro College Fund, Inc.'
+  Amount: '$58,003,043'
+  Description: ''
+  Notes: ''
+- Name: University of Texas at Austin
+  Amount: '$200,000'
+  Description: ''
+  Notes: ''
+- Name: Urban Assembly Inc
+  Amount: '$306,500'
+  Description: ''
+  Notes: ''
+- Name: Washington State Board for Community & Technical Colleges
+  Amount: '$3,775,000'
+  Description: ''
+  Notes: ''
+- Name: 'West Valley School District #363'
+  Amount: '$511,359'
+  Description: ''
+  Notes: ''
