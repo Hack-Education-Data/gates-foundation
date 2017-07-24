@@ -1,0 +1,259 @@
+2014name: Gates Foundation Grants Data
+description: Gates Foundation (education) grants since 1998.
+image: http://hackeducation.com/assets/images/beless.png
+tags:
+    - Gates Foundation
+    - Grants
+created: "2017-07-24"
+modified: "2017-07-24"
+url: https://hack-education-data.github.io/gates-foundation/apis.json
+specificationVersion: "0.14"
+apis:
+  - name: Gates Foundation Grants 1998
+    description: Gates Foundation (education) grants for 1998.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/1998/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 1998
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/1998.yaml
+  - name: Gates Foundation Grants 1999
+    description: Gates Foundation (education) grants for 1999.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/1999/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 1999
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/1999.yaml
+  - name: Gates Foundation Grants 2000
+    description: Gates Foundation (education) grants for 2000.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2000/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2000
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2000.yaml
+  - name: Gates Foundation Grants 2001
+    description: Gates Foundation (education) grants for 2001.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2001/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2001
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2001.yaml
+  - name: Gates Foundation Grants 2002
+    description: Gates Foundation (education) grants for 2002.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2002/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2002
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2002.yaml
+  - name: Gates Foundation Grants 2003
+    description: Gates Foundation (education) grants for 2003.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2003/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2002
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2003.yaml
+  - name: Gates Foundation Grants 2004
+    description: Gates Foundation (education) grants for 2004.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2004/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2003
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2004.yaml
+  - name: Gates Foundation Grants 2005
+    description: Gates Foundation (education) grants for 2005.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2005/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2004
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2005.yaml
+  - name: Gates Foundation Grants 2006
+    description: Gates Foundation (education) grants for 2006.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2006/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2005
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2006.yaml
+  - name: Gates Foundation Grants 2007
+    description: Gates Foundation (education) grants for 2007.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2007/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2006
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2007.yaml
+  - name: Gates Foundation Grants 2008
+    description: Gates Foundation (education) grants for 2008.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2008/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2007
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2008.yaml
+  - name: Gates Foundation Grants 2009
+    description: Gates Foundation (education) grants for 2009.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2009/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2008
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2009.yaml
+  - name: Gates Foundation Grants 2010
+    description: Gates Foundation (education) grants for 2010.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2010/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2009
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2010.yaml
+  - name: Gates Foundation Grants 2011
+    description: Gates Foundation (education) grants for 2011.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2011/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2010
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2011.yaml
+  - name: Gates Foundation Grants 2012
+    description: Gates Foundation (education) grants for 2012.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2012/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2011
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2012.yaml
+  - name: Gates Foundation Grants 2013
+    description: Gates Foundation (education) grants for 2013.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2013/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2012
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2013.yaml
+  - name: Gates Foundation Grants 1998
+    description: Gates Foundation (education) grants for 2014.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2014/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2013
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2014.yaml
+  - name: Gates Foundation Grants 2015
+    description: Gates Foundation (education) grants for 2015.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2015/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2014
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2015.yaml
+  - name: Gates Foundation Grants 2016
+    description: Gates Foundation (education) grants for 2016.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2016/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2015
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/2016.yaml
+  - name: Gates Foundation Grants 2017
+    description: Gates Foundation (education) grants for 2017.
+    image: http://hackeducation.com/assets/images/beless.png
+    humanURL: https://hack-education-data.github.io/gates-foundation/
+    baseURL: https://hack-education-data.github.io/gates-foundation/apis/2017/
+    tags:
+      - Gates Foundation
+      - Grants
+      - 2016
+    properties:
+      - type: x-yaml
+        url: https://raw.githubusercontent.com/Hack-Education-Data/gates-foundation/master/_data/1998.yaml
+x-common:
+  - type: x-github-repo
+    url: https://github.com/Hack-Education-Data/gates-foundation
+include: []
+maintainers:
+  - FN: Hack Education
+    x-twitter: hackeducation
+    email: info@hackeducation.com
